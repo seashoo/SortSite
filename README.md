@@ -2,7 +2,7 @@
 
 This interactive app visualizes and animates different sorting, graphing, and maze generation algorithms.
 
-Try out the app here: https://ian-chuang.github.io/AlgorithmVisualizer/
+Try out the app here: https://ashoorsahran.github.io/sortsite
 
 ## Sorting!
 ![](GIFs/sorting-readme.gif)

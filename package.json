@@ -1,6 +1,6 @@
 {
-  "name": "algorithm_visualizer",
-  "homepage": "https://anish-kondepudi.github.io/AlgorithmVisualizer",
+  "name": "sortsite",
+  "homepage": "https://ashoorsahran.github.io/sortsite",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

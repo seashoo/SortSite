@@ -2,7 +2,7 @@
 
 An interactive web app built to visualize several variations of sorting, graphing, and maze generation algorithms.
 
-Try out the app here: https://ashoorsahran.github.io/sortsite
+Try out the app here: https://github.com/seashoo/SortSite
 
 ## Sorting Demo
 ![](GIFs/sorting-readme.gif)

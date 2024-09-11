@@ -21,7 +21,7 @@ export const LandingPage = () => {
         <div className="mb-2 ms-2">
           <div 
             className="github-link d-inline-block" 
-            onClick={() => {window.location.href="https://github.com/anish-kondepudi/AlgorithmVisualizer"}}
+            onClick={() => {window.location.href="https://github.com/seashoo/SortSite"}}
           > 
             <i class="fab fa-3x fa-github"></i>
           </div>

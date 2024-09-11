@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/SortSite/static/css/main.54229dff.chunk.css",
+    "main.js": "/SortSite/static/js/main.be928f3a.chunk.js",
+    "main.js.map": "/SortSite/static/js/main.be928f3a.chunk.js.map",
+    "runtime-main.js": "/SortSite/static/js/runtime-main.49deebf9.js",
+    "runtime-main.js.map": "/SortSite/static/js/runtime-main.49deebf9.js.map",
+    "static/js/2.7d70202c.chunk.js": "/SortSite/static/js/2.7d70202c.chunk.js",
+    "static/js/2.7d70202c.chunk.js.map": "/SortSite/static/js/2.7d70202c.chunk.js.map",
+    "static/js/3.277a1e11.chunk.js": "/SortSite/static/js/3.277a1e11.chunk.js",
+    "static/js/3.277a1e11.chunk.js.map": "/SortSite/static/js/3.277a1e11.chunk.js.map",
+    "index.html": "/SortSite/index.html",
+    "static/css/main.54229dff.chunk.css.map": "/SortSite/static/css/main.54229dff.chunk.css.map",
+    "static/js/2.7d70202c.chunk.js.LICENSE.txt": "/SortSite/static/js/2.7d70202c.chunk.js.LICENSE.txt",
+    "static/media/tutorial_page_1.5de78eab.gif": "/SortSite/static/media/tutorial_page_1.5de78eab.gif",
+    "static/media/tutorial_page_2.a22faa6b.gif": "/SortSite/static/media/tutorial_page_2.a22faa6b.gif",
+    "static/media/tutorial_page_3.58e0ed19.gif": "/SortSite/static/media/tutorial_page_3.58e0ed19.gif",
+    "static/media/tutorial_page_4.0eed5ae8.gif": "/SortSite/static/media/tutorial_page_4.0eed5ae8.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49deebf9.js",
+    "static/js/2.7d70202c.chunk.js",
+    "static/css/main.54229dff.chunk.css",
+    "static/js/main.be928f3a.chunk.js"
+  ]
+}

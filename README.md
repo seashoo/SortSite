@@ -1,17 +1,15 @@
-# Algorithm Visualizer
+# SortSite
 
-This interactive app visualizes and animates different sorting, graphing, and maze generation algorithms.
+An interactive web app built to visualize several variations of sorting, graphing, and maze generation algorithms.
 
 Try out the app here: https://ashoorsahran.github.io/sortsite
 
-## Sorting!
+## Sorting Demo
 ![](GIFs/sorting-readme.gif)
 
-## Graphs and Mazes!
+## Graphs and Mazes Demo
 ![](GIFs/graph-readme.gif)
 
-## Extra Features!
-![](GIFs/luffy-readme.gif)
 
 ## How to Run
 

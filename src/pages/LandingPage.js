@@ -14,7 +14,7 @@ export const LandingPage = () => {
           </div>
 
           <div onClick={() =>  history.push('/graph')} className="algo">
-            <h2 className="mb-4">Graph Algorithms</h2>
+            <h2 className="mb-4">Graphing Algorithms</h2>
             <img src={process.env.PUBLIC_URL + "/graph_example.PNG"} />
           </div>
         </div>

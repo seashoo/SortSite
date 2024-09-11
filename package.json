@@ -18,12 +18,14 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-  "start": "react-scripts start",
-  "build": "react-scripts build",
-  "test": "react-scripts test",
-  "eject": "react-scripts eject",
-  "set-env": "set NODE_OPTIONS=--openssl-legacy-provider"
-},
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "set-env": "set NODE_OPTIONS=--openssl-legacy-provider",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
